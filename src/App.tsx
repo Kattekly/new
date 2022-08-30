@@ -12,6 +12,7 @@ function App() {
         </p>
 
         <p>Hello world!</p>
+        <p>Hi!</p>
 
         <a
           className="App-link"
